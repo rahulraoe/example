@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     Button btn;
 
-    // this is new change in main activity
+    // this is new change in main activity from github
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
